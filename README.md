@@ -1,4 +1,4 @@
-# CRUD-API-with-Nodejs-Express-MongoDB
+# CRUD-API-Nodejs-Express-MongoDB
 Step-by-step guide to build a simple CRUD API:
 
 Create a new folder named nodejs-api
